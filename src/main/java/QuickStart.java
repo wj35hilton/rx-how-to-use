@@ -5,7 +5,7 @@ import java.util.stream.IntStream;
 public class QuickStart {
   public static void main(String [] args) {
     System.out.println("HELLO");
-    hello("Paul", "Cecilia");
+    hello("Thing1", "Thing2");
 
     synchObservable(); // https://github.com/ReactiveX/RxJava/wiki/How-To-Use-RxJava
   }
